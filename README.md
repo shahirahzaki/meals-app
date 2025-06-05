@@ -1,1 +1,4 @@
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMzM3htOTd2Y3NlejNqd2x4ajFpNDR2bjBlZ3BpcWpuYWlqNmw0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1uSLW0WWAFJGrwFQ4w/giphy.gif
+# Meals App
+_For learning purposes_
+
+![download](https://github.com/user-attachments/assets/c857cb93-979e-4fae-8ce2-aaddef9e4bb2)
