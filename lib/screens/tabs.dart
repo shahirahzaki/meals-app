@@ -49,6 +49,7 @@ class _TabsScreenState extends ConsumerState<TabsScreen> {
     final availableMeals =
         meals.where /*available on all list objects*/ ((meal) {
           if (activeFilters[Filter.glutenFree]! && !meal.isGlutenFree) {
+            //glutenfree filter on & meal isnt gluten free so, cond true, returns false
             return false;
           }
           if (activeFilters[Filter.lactoseFree]! && !meal.isLactoseFree) {
